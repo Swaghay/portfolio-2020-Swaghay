@@ -26,7 +26,7 @@ HTML (Since 2020)
 
 [Wack A Mole](https://github.com/Swaghay/WackAMole): This is the second app that I made by myself in Swift, this is a simple digital version of the arcade wack a mole machines with a timer. I learned a lot about SwiftUI when making this. This was the first app that I put in TestFlight so I got some experience with how publishing an app works.
 
-[Super-Bird-Fighter-Ultra](https://github.com/AnthonyKuismi/Super-Bird-Fighter-Ultra): This is the first app where I am working in a group to make an app in Swift. It is going to be a game made in the SpriteKit framework. I am learning a lot about how you make an app with my group from making art to programming. I have learned that SpriteKit is a lot harder than SwiftUI.
+[Super-Bird-Fighter-Ultra](https://github.com/AnthonyKuismi/Super-Bird-Fighter-Ultra): This is the first app where I worked in a group to make an app in Swift. It was made in the SpriteKit framework for Swift. I learned a lot about how you make an app with my group from making art to programming. I have learned that SpriteKit is a lot more confusing than SwiftUI.
 
 [iOSPong](https://github.com/Swaghay/iOSPong/): This the the first app that i made following a tutorial becasue I wanted to learn the very basics of SpriteKit. I had learned a lot about the more advanced stuff in SpriteKit by making Super Bird Fighter Ultra with my group but I did not learn a lot about the basics. So by following the pong tutorial I gained a lot of new knowledge on SpriteKit.
 
